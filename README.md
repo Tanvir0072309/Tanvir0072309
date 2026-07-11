@@ -84,18 +84,6 @@
 
 ---
 
-### Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tanvir-pathan-3b1b12337/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://ubar-app.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge" alt="Portfolio" />
-</a>
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=<GITHUB_USERNAME>&style=for-the-badge&color=black)
 
