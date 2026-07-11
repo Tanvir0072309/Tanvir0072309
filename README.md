@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/tanvir-pathan-3b1b12337/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://ubar-app.netlify.app/">
+<a href="http://mrtanvirportfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge" alt="Portfolio" />
 </a>
 
@@ -24,17 +24,17 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
-- 🎓 BCA (Hons.) Software Engineering student
-- 💻 Full-Stack Developer building with **MERN** & **Django**
-- 🚀 Currently building **production-ready** applications end-to-end — auth, real-time features, deployment, the whole pipeline
-- 🌱 Constantly leveling up in backend architecture, real-time systems, and clean UI design
-- ⚡ Fun fact: I'd rather ship a working feature than perfect one that never ships
+-  BCA (Hons.) Software Engineering student
+-  Full-Stack Developer building with **MERN** & **Django**
+-  Currently building **production-ready** applications end-to-end — auth, real-time features, deployment, the whole pipeline
+-  Constantly leveling up in backend architecture, real-time systems, and clean UI design
+-  Fun fact: I'd rather ship a working feature than perfect one that never ships
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -84,93 +84,7 @@
 
 ---
 
-### 💻 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**⭐ Uber Clone**
-
-Production-ready MERN stack ride-booking app with JWT auth, Socket.IO real-time ride requests, live GPS tracking, OpenStreetMap routing, and distance-based fare calculation.
-
-`mern` `react` `nodejs` `express` `mongodb` `socketio` `jwt` `tailwindcss` `vite` `rest-api` `openstreetmap`
-
-🌐 [Live Demo](https://ubar-app.netlify.app/) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/<GITHUB_USERNAME>/ubar)
-
-</td>
-<td width="50%">
-
-**⭐ Alloy**
-
-`mern` `react` `nodejs`
-
-🌐 Live Demo &nbsp;|&nbsp; 💻 [Source Code](https://github.com/<GITHUB_USERNAME>/alloy)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⭐ AI Recipe App**
-
-`react` `nodejs` `ai` `api-integration`
-
-🌐 Live Demo &nbsp;|&nbsp; 💻 [Source Code](https://github.com/<GITHUB_USERNAME>/ai-recipe-app)
-
-</td>
-<td width="50%">
-
-**⭐ Portfolio**
-
-`react` `tailwindcss` `vite`
-
-🌐 Live Demo &nbsp;|&nbsp; 💻 [Source Code](https://github.com/<GITHUB_USERNAME>/portfolio)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⭐ Weather App**
-
-`javascript` `api-integration` `weather-api`
-
-🌐 Live Demo &nbsp;|&nbsp; 💻 [Source Code](https://github.com/<GITHUB_USERNAME>/weather-app)
-
-</td>
-<td width="50%">
-
-**⭐ Hotel Service Website**
-
-`react` `nodejs` `mongodb`
-
-🌐 Live Demo &nbsp;|&nbsp; 💻 [Source Code](https://github.com/<GITHUB_USERNAME>/hotel-service-website)
-
-</td>
-</tr>
-</table>
-
-> 📌 Replace `<GITHUB_USERNAME>` above with your actual GitHub username, and swap in the real repo names + live links for each project.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<GITHUB_USERNAME>&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_USERNAME>&layout=compact&hide_border=true" width="49%" alt="Top Languages" />
-
-</div>
-
-> 📌 Replace `<GITHUB_USERNAME>` in the stat URLs above with your actual GitHub username for these to render correctly.
-
----
-
-### 📫 Contact
+### Contact
 
 <div align="center">
 
