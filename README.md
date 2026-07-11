@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFhb1JObuFa9w/profile-displaybackgroundimage-shrink_200_800/B4DZixNaFlH4AU-/0/1755319741193?e=1785369600&v=beta&t=DMGhrh-lR2ugPUyl016PFyPYTTsjR9Q1VefPvZamgGg" width="100%" style="border-radius: 12px; object-fit: cover; max-height: 260px;" alt="banner" />
-
-<br/>
-
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQHZIbPBb4qJJw/profile-displayphoto-scale_400_400/B4DZi12GB3H4Ag-/0/1755397515445?e=1785369600&v=beta&t=WjslMPxE0uAxXZNH6MdIMpmMLLDDvigPPO7cn5BOkz8"
      width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #000; margin-top: -75px;" alt="Pathan Tanvir Khan" />
 
