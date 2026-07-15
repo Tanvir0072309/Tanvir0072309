@@ -82,9 +82,5 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=<Tanvir0072309>&style=for-the-badge&color=black)
 
 </div>
