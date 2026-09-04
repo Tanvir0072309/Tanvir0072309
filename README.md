@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGdOTWNLrzZEw/profile-displayphoto-scale_400_400/B4DZ9pccR_JAAk-/0/1784180492256?e=1785974400&v=beta&t=kwriT9FqF6ItBe5bOW-K166FN1IaGUDE3d4DRFnr-dE"
+<img src="https://media.licdn.com/dms/image/v2/D4D35AQENBy46I8HMHA/profile-framedphoto-shrink_400_400/B4DZ9vRBIuK8AU-/0/1784278160381?e=1789113600&v=beta&t=HlS0xaS9LVsehA3PPgsvZOUVCbetymIDkmOQK0YEcSU"
      width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #000; margin-top: -75px;" alt="Pathan Tanvir Khan" />
 
 # Hi 👋, I'm Pathan Tanvir Khan
